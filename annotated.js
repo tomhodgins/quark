@@ -1,6 +1,6 @@
 // Quark.js Annotated File
 
-// Fine all tags
+// Find all tags
 var tag = document.querySelectorAll('*')
 
 // For each tag, run the following

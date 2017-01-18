@@ -26,7 +26,7 @@ Could be re-written with Quark classes as:
 <div class="color-red fontSize-20"></div>
 ```
 
-View the source of [index.html](blob/gh-pages/index.html) to see more!
+View the source of [index.html](index.html) to see more!
 
 
 ## Adding Quark to your Website
@@ -47,4 +47,4 @@ Or embed the entire script inline in the page:
 
 There is an annotated source code file similar (but not identical) to the 140 byte version that explains how the plugin works in an easier-to-read format.
 
-**[Read Annotated Source](blob/gh-pages/annotated.js)**
+**[Read Annotated Source](annotated.js)**

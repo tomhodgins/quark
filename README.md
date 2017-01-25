@@ -43,6 +43,16 @@ Or embed the entire script inline in the page:
 <script>for(t=document.querySelectorAll`*`,i=t.length;i--;)for(s=t[i].classList,c=s.length;c--;)z=s[c].split`-`,u=z[1],t[i].style[z[0]]=~~u?u+'px':u</script>
 ```
 
+There's also an ES6 version of the code available in `quark-es6.js` that can be linked to or included using a `<script>` tag like this:
+
+```html
+<script>[...document.querySelectorAll`*`].map(e=>[...e.classList].map(c=>e.style[[a,b]=c.split`-`,a]=~~b?b+'px':b))</script>
+```
+
+### 3rd Party Support
+
+Github user @tomhodgins provided a way that Quark classes could be read without the use of `quark.js` or `quark.es6.js` using EQCSS in this pen on Codepen: [Reading Quark Classes with EQCSS](http://codepen.io/tomhodgins/pen/ggGYZJ?editors=1100)
+
 ## Documentation
 
 There is an annotated source code file similar (but not identical) to the 140 byte version that explains how the plugin works in an easier-to-read format.

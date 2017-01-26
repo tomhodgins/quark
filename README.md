@@ -51,7 +51,7 @@ There's also an ES6 version of the code available in `quark-es6.js` that can be 
 
 ### 3rd Party Support
 
-Github user @tomhodgins provided a way that Quark classes could be read without the use of `quark.js` or `quark.es6.js` using EQCSS in this pen on Codepen: [Reading Quark Classes with EQCSS](http://codepen.io/tomhodgins/pen/ggGYZJ?editors=1100)
+Github user @tomhodgins provided a way that Quark classes could be read without the use of `quark.js` or `quark-es6.js` using EQCSS in this pen on Codepen: [Reading Quark Classes with EQCSS](http://codepen.io/tomhodgins/pen/ggGYZJ?editors=1100)
 
 ## Documentation
 

@@ -7,7 +7,7 @@ This plugin is the smallest 'atomic' CSS framework, at only 140 bytes it's [smal
 
 ## What is 'atomic' CSS?
 
-There are a number of CSS frameworks like [ACSS](https://acss.io/), [BassCSS](http://basscss.com/), [Tachyons](http://tachyons.io/), [Universal.CSS](https://github.com/marmelab/universal.css), and [Bootstrap v4](https://v4-alpha.getbootstrap.com/utilities/spacing/) that include pre-made classes for certain properties. These can apply directly to an element in HTML as classes instead of as styles.
+There are a number of CSS frameworks like [Tailwind CSS](https://tailwindcss.com/), [ACSS](https://acss.io/), [BassCSS](http://basscss.com/), [Tachyons](http://tachyons.io/), [Universal.CSS](https://github.com/marmelab/universal.css), and [Bootstrap v4](https://v4-alpha.getbootstrap.com/utilities/spacing/) that include pre-made classes for certain properties. These can apply directly to an element in HTML as classes instead of as styles.
 
 
 ## How to write classes for Quark
